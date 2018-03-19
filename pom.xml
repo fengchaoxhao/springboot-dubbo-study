@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <!-- 添加子模块进行聚合开发 -->
     <modules>
         <module>springboot-dubbo-api</module>
         <module>springboot-dubbo-provider</module>
