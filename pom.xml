@@ -8,5 +8,7 @@
     <artifactId>springboot-dubbo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <modules>
+        <module>springboot-dubbo-api</module>
+    </modules>
 </project>
