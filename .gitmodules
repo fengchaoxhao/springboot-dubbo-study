@@ -4,3 +4,6 @@
 [submodule "springboot-dubbo-provider"]
 	path = springboot-dubbo-provider
 	url = https://github.com/fengchaoxhao/springboot-dubbo-provider.git
+[submodule "springboot-dubbo-consumer"]
+	path = springboot-dubbo-consumer
+	url = https://github.com/fengchaoxhao/springboot-dubbo-consumer.git
