@@ -9,6 +9,14 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.alibaba.boot</groupId>
+            <artifactId>dubbo-spring-boot-starter</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+    </dependencies>
+
     <!-- 添加子模块进行聚合开发 -->
     <modules>
         <module>springboot-dubbo-api</module>

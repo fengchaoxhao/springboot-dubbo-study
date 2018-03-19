@@ -18,5 +18,5 @@ Windows环境执行命令
 
 ## 添加不同Git仓库的项目作为子模块进行聚合开发 ##
 在当前根目录下执行如下命令:  
-git submodule add https://github.com/fengchaoxhao/springboot-dubbo-api.git
+$git submodule add https://github.com/fengchaoxhao/springboot-dubbo-api.git
 
