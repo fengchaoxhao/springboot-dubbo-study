@@ -1,3 +1,6 @@
 [submodule "springboot-dubbo-api"]
 	path = springboot-dubbo-api
 	url = https://github.com/fengchaoxhao/springboot-dubbo-api.git
+[submodule "springboot-dubbo-provider"]
+	path = springboot-dubbo-provider
+	url = https://github.com/fengchaoxhao/springboot-dubbo-provider.git

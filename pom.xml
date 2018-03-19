@@ -10,5 +10,6 @@
 
     <modules>
         <module>springboot-dubbo-api</module>
+        <module>springboot-dubbo-provider</module>
     </modules>
 </project>
